@@ -54,8 +54,11 @@ The **Integrated Security Solutions Lab (ISSL)** project focuses on creating a r
 ---
 
 ### Screenshots
-Add screenshots of your project setup, network diagrams, or any relevant visualizations of your network security architecture.
 
 Example:
-![Network Diagram](https://via.placeholder.com/800x600.png)
-*Ref 1: Network Diagram with pfSense, IPsec VPN, and DMZ Security Configuration*
+![Network Diagram](https://github-production-user-asset-6210df.s3.amazonaws.com/67530243/386005207-e2e98da9-c299-46f5-800b-01e87ea20562.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T014203Z&X-Amz-Expires=300&X-Amz-Signature=222117c1b6c29af71ef43542a0090550d3dce38d2597c368e24c707f2c734197&X-Amz-SignedHeaders=host)
+*Ref 1: Network Diagram with pfSense(esxi), IPsec VPN, snort, ldap, and each network zone*
+
+Example:
+![GNS3 Toplogy]()
+*Ref 2: Network Topology with pfSense(gns3), IPsec VPN, ,Suricata,Opensense(NAXSI), vm assets, secuirty solutions, and each network zone*
