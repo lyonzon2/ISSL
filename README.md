@@ -60,5 +60,5 @@ Example:
 *Ref 1: Network Diagram with pfSense(esxi), IPsec VPN, snort, ldap, and each network zone*
 
 Example:
-![GNS3 Toplogy]()
+![GNS3 Toplogy](https://github-production-user-asset-6210df.s3.amazonaws.com/67530243/386007949-b5722559-9b51-480f-b17d-3de3309eda3a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T014723Z&X-Amz-Expires=300&X-Amz-Signature=5a8737f90b50df430ff0322dd2cb367c3bde09893da4bd5128febaf908ff12d7&X-Amz-SignedHeaders=host)
 *Ref 2: Network Topology with pfSense(gns3), IPsec VPN, ,Suricata,Opensense(NAXSI), vm assets, secuirty solutions, and each network zone*
