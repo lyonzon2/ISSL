@@ -56,9 +56,9 @@ The **Integrated Security Solutions Lab (ISSL)** project focuses on creating a r
 ### Screenshots
 
 Example:
-![Network Diagram](https://github-production-user-asset-6210df.s3.amazonaws.com/67530243/386005207-e2e98da9-c299-46f5-800b-01e87ea20562.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T014203Z&X-Amz-Expires=300&X-Amz-Signature=222117c1b6c29af71ef43542a0090550d3dce38d2597c368e24c707f2c734197&X-Amz-SignedHeaders=host)
+![Network Diagram](https://github.com/lyonzon2/ISSL/blob/main/cyber-lab.drawio.png)
 *Ref 1: Network Diagram with pfSense(esxi), IPsec VPN, snort, ldap, and each network zone*
 
 Example:
-![GNS3 Toplogy](https://github-production-user-asset-6210df.s3.amazonaws.com/67530243/386007949-b5722559-9b51-480f-b17d-3de3309eda3a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T014723Z&X-Amz-Expires=300&X-Amz-Signature=5a8737f90b50df430ff0322dd2cb367c3bde09893da4bd5128febaf908ff12d7&X-Amz-SignedHeaders=host)
+![GNS3 Toplogy](https://github.com/lyonzon2/ISSL/blob/main/infra-toplogy.png)
 *Ref 2: Network Topology with pfSense(gns3), IPsec VPN, ,Suricata,Opensense(NAXSI), vm assets, secuirty solutions, and each network zone*
