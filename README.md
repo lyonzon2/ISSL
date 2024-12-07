@@ -56,7 +56,8 @@ The **Integrated Security Solutions Lab (ISSL)** project focuses on creating a r
 ### Screenshots
 
 Example:
-![Network Diagram](https://github.com/lyonzon2/ISSL/blob/main/cyber-lab.drawio.png)
+![Network Diagram]
+(https://github.com/lyonzon2/ISSL/blob/main/cyber-lab.drawio.png)
 *Ref 1: Network Diagram with pfSense(esxi), IPsec VPN, snort, ldap, and each network zone*
 
 Example:
